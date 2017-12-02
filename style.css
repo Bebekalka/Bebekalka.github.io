@@ -7,8 +7,11 @@ body {
 td {
   width: 50%;
   border: 2px solid brown;
-  padding: 50px 20px;
+  margin: 50px 20px;
 }
 table {
   width: 50%;
+}
+.mypht {
+  padding: 50px
 }
