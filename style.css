@@ -5,10 +5,7 @@ body {
   margin: 0;
 }
 td {
+  width: 950px;
   border: 2px solid brown;
   padding: 0px;
-}
-.mypht {
-  width: 100px;
-  padding-right:0;
 }
