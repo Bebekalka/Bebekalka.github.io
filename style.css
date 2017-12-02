@@ -5,7 +5,10 @@ body {
   margin: 0;
 }
 td {
-  width: 950px;
+  width: 50%;
   border: 2px solid brown;
   padding: 0px;
+}
+table {
+  width: 50%;
 }
